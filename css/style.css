@@ -23,3 +23,26 @@ body {
 }
 
 
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.header_container{
+    width: 100%;
+    padding: 30px;
+    background-color: #f3f3f3;
+}
+.page_container{
+    display: flex; /* makes boxes inside to  be horizontal */
+}
+.sidebar_container{
+    width: 200px;
+    padding: 20px;
+    background-color: #e5e5e5;
+}
+.main_container{
+    width: 100%;
+    padding: 30px;
+}

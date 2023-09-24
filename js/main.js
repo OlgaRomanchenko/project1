@@ -1,1 +1,1 @@
-alert("Project1 FUCKING RUNNING")
+// alert("Project1 FUCKING RUNNING")
